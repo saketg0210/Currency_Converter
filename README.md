@@ -28,9 +28,6 @@ A simple, fast, and responsive **Currency Converter Web App** built using
 ## 📂 Project Structure
 Currency_Converter/
 │
-├── assets/
-│ └── demo.gif # Add your GIF screenshot here
-│
 ├── index.html # Main UI
 ├── style.css # Styling
 └── script.js # Logic + API handling
